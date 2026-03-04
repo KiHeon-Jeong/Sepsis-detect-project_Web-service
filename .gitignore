@@ -1,0 +1,35 @@
+﻿# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Env / secrets
+.env
+.env.*
+# Node
+node_modules/
+dist/
+build/
+.vite/
+
+# Python backend artifacts
+backend/*.pkl
+backend/*.joblib
+backend/*.pt
+backend/*.pth
+
+# Data files
+train_final.csv
+test_final.csv
+*.csv
+
+# Local env
+.env
+.env.*
