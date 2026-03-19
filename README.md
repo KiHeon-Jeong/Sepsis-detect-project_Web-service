@@ -1,7 +1,7 @@
 ﻿# MIMIC Web-service Module (Frontend/Backend Integration)
 
 ## 1) 개요
-본 구현 코드는 프로젝트 MIMIC 서비스 파트입니다.  
+본 구현 코드는 프로젝트 MIMIC 웹 서비스 구현 파트입니다.  
 패혈증 및 사망 위험 예측 모델을 Flask API로 제공하고, React 기반 프론트엔드와 연동하여 사용자 입력값에 대한 결과를 제공합니다.
 
 ## 2) 파일 구성
